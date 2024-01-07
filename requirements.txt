@@ -6,6 +6,6 @@ beautifulsoup4~=4.12.2
 fuzzywuzzy~=0.18.0
 nltk~=3.0.0
 scikit-learn~=1.2.2
-nltk stopwords
+stopwords
 
 
