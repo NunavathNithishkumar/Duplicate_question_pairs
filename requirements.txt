@@ -7,5 +7,5 @@ fuzzywuzzy~=0.18.0
 nltk~=3.8.1
 scikit-learn~=1.2.2
 stopwords
-corpora/stopwords
+corpora stopwords
 
